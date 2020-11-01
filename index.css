@@ -1,0 +1,39 @@
+.wrapper{
+  max-width: 800px;
+}
+.intro{
+  margin-bottom: 96px;
+}
+h6{
+  font-weight: bold;
+}
+.red{
+  color: red;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.pink{
+  background: linear-gradient(transparent 50%, pink 0%);
+  
+}
+img{
+  display: block;
+  width:100%;
+  max-width: 560px;
+}
+
+.btn{
+  background: tomato;
+  border-radius: 16px;
+  color: white;
+  font-weight: bold;
+  padding: 16px 56px;
+  margin-bottom: 96px;
+}
+
+.fs-09{
+  font-size: 0.9rem;
+}
+.fs-08{
+  font-size: 0.8rem;
+}
