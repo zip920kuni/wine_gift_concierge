@@ -37,3 +37,9 @@ img{
 .fs-08{
   font-size: 0.8rem;
 }
+
+@media screen and (min-width: 480px){
+  .br-res{
+    display:none;
+  }
+}
