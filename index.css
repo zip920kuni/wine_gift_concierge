@@ -40,9 +40,12 @@ img{
 
 footer{
   font-size: 0.9rem;
+  background-color: #B33771;
+  color: #ffffff;
 }
 .footer_title{
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  color: #ffffff;
 }
 
 
